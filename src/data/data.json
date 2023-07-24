@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": " Mountain Movers Christian Center",
+    "paragraph": "2 Timothy 2:15 KJV - Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We stand on the Holy Scriptures, not according to any traditional interpretation, but according to the pure Word of God. We stand on Christ, the living rock, the foundation stone, the Head of the Body, and the life and reality of the church. We stand on the genuine oneness of the body of Christ. We are not sectarian, nor denominational, nor non-denominational, nor interdenominational. We stand on the ground of the oneness of all believers; we recognize all the blood-redeemed and Spirit-regenerated believers in Christ as members of the church.We believe that the Holy Bible is the complete divine revelation verbally inspired by the Holy Spirit.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -132,28 +132,15 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Bisbop O.C Michael",
+      "job": "General Overseer/Founder",
+      "bio": "."
     }
+    
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": " 5 Obianke Street, Agbor, Delta State",
+    "phone": "+234 703 685 7176",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
@@ -167,18 +154,54 @@
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+       "title": "Lorem ipsum",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "tiktok", 
+      "title": "",
+      "text": "https://www.tiktok.com/en/"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "WhatsApp",
+      "title": "",
+      "text": "https://youtube.com"
     }
-  ]
+  ],
+  
+"VideoPlayer": 
+  [
+    {
+      "video1": "./vid/hang.mp4"
+
+    },
+  {
+    "video2": "./vid/video2.mp4"
+
+  }
+  ],
+ 
+  "Socials" : 
+  [
+    {
+      "icon":"fab fa-youTube",
+      "text": "https://youtube.com",
+      "title": "YouTube"    
+    },
+    {
+    "icon": "fab fa-facebook",
+    "text": "https://facebook.com",
+    "title": "Facebook"
+  },
+  {
+    "icon": "fab fa-instagram",
+    "text": "https://instagram.com",
+    "title": "Instagram"
+  },
+  {
+    "icon": "fab fa-tiktok",
+    "text": "https://www.tiktok.com/en/",
+    "title": "Tiktok"
+  }
+]
 }
