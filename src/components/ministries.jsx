@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom/dist";
 
 var path = process.env.PUBLIC_URL;
 var outreach = "/img/outreach.jpg";
@@ -58,7 +57,6 @@ export const Ministries = (props) => {
                                 <div className="card-body">
                                        <small className="card-meta mb-2">Thought Leadership</small>
                                  <h4 className="card-title mt-0 "> 
-                                 <Link to="/blog">Click me</Link>
                                                                   </h4>
                                  <small><i className="fa fa-clock-o"></i> June 15, 2023</small>
                                 </div>   
