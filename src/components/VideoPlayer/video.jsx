@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import useVideoPlayer from "./useVideoPlayer";
-import video from "../../vid/charity1.mp4"
+import video from "../../vid/CharityVideo.mp4"
 
 
 

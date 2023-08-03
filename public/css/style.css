@@ -693,14 +693,10 @@ background: linear-gradient(0deg, rgba(255,186,33,0.3785889355742297) 0%, rgba(2
 
 
 #videoplayer .container {
-  margin-top: 100px;
   align-items: center;
   justify-content: center;
   height: 100vh;
-}
 
-h1 {
-  color: rgb(161, 74, 74);
 }
 
 video {
